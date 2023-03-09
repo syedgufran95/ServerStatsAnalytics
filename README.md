@@ -10,7 +10,7 @@ Gain the ability to analyze and monitor telemetry data by deploying the TIG stac
 
 ## ⚡️ Getting Started
 
-Clone the project
+Clone this project
 
 ```bash
 git clone https://github.com/huntabyte/tig-stack.git

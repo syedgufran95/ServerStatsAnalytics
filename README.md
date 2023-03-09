@@ -19,4 +19,7 @@ cp prometheus.yml /etc/prometheus
 ```
 Navigate to the project directory
 
+```bash
+sudo docker-compose up
+```
 
